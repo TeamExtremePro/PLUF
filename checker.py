@@ -3,8 +3,8 @@
 
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 
-from DYNAMIC import ALIVE_NAME
-from DYNAMIC.utils import admin_cmd
+from Extre import ALIVE_NAME
+from Extre.utils import admin_cmd
 
 naam = str(ALIVE_NAME)
 

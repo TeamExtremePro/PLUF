@@ -7,9 +7,9 @@ import base64
 import requests
 from telethon import events
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
-from DYNAMIC import CMD_HELP
-from DYNAMIC.utils import admin_cmd, edit_or_reply, sudo_cmd
-from DYNAMIC.plugins.sql_helper.echo_sql import addecho, get_all_echos, is_echo, remove_echo
+from Extre import CMD_HELP
+from Extre.utils import admin_cmd, edit_or_reply, sudo_cmd
+from Extre.plugins.sql_helper.echo_sql import addecho, get_all_echos, is_echo, remove_echo
 
 
 @bot.on(admin_cmd(pattern="echo$"))

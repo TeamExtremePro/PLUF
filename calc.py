@@ -1,13 +1,13 @@
 #credits to @legendx22
 """
-DYNAMIC module aage ni pta kuch
+Extre module aage ni pta kuch
 """
 import io
 import sys
 import traceback
 
-from DYNAMIC import CMD_HELP
-from DYNAMIC.utils import admin_cmd, edit_or_reply, sudo_cmd
+from Extre import CMD_HELP
+from Extre.utils import admin_cmd, edit_or_reply, sudo_cmd
 
 
 @bot.on(admin_cmd(pattern="calc (.*)"))

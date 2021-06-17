@@ -5,8 +5,8 @@ Userbot module to help you dm msg
 
 from telethon import *
 
-from DYNAMIC import CMD_HELP
-from DYNAMIC.utils import admin_cmd
+from Extre import CMD_HELP
+from Extre.utils import admin_cmd
 
 
 # Fixed by LEGDND X

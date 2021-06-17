@@ -2,7 +2,7 @@
 Syntax: .github USERNAME"""
 from telethon import events
 import requests
-from DYNAMIC.utils import admin_cmd
+from Extre.utils import admin_cmd
 
 
 @borg.on(admin_cmd("github (.*)"))

@@ -16,8 +16,8 @@ import re
 import urllib
 import requests
 from telethon.tl import functions
-from DYNAMIC.utils import admin_cmd
-from DYNAMIC import CMD_HELP
+from Extre.utils import admin_cmd
+from Extre import CMD_HELP
 
 COLLECTION_STRING1 = [
     "awesome-batman-wallpapers",

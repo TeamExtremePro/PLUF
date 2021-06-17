@@ -1,5 +1,5 @@
 """
-G-Drive File Downloader Plugin For DYNAMIC. 
+G-Drive File Downloader Plugin For Extre. 
 usage: .gdl File-Link
 By: @Zero_cool7870
 

@@ -1,5 +1,5 @@
 """	
-	Anilist Search Plugin for DYNAMIC	
+	Anilist Search Plugin for Extre	
 	Usage : .anilist animeName	
 	By :- @Zero_cool7870	
 """
@@ -8,8 +8,8 @@ import requests
 import re
 import json
 import asyncio
-from DYNAMIC import CMD_HELP
-from DYNAMIC.utils import admin_cmd, edit_or_reply, sudo_cmd
+from Extre import CMD_HELP
+from Extre.utils import admin_cmd, edit_or_reply, sudo_cmd
 
 async def callAPI(search_str):
     query = '''
