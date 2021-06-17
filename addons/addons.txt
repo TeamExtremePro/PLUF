@@ -1,10 +1,1 @@
-fonttools
-covid
-gtts
-pokedex.py
-pyshorteners
-pyfiglet
-pyjokes
-quotefancy
-wikipedia
-lyrics_extractor==3.0.1
+Extre
