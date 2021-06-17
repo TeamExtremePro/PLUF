@@ -1,1 +1,1 @@
-from Extre import *
+from plugins import *
