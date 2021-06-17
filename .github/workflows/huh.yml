@@ -19,9 +19,9 @@ jobs:
 
         with:
 
-          find: "DYNAMIC"
+          find: "hell user"
 
-          replace: "Extre"
+          replace: "ExtrePro User"
 
       - name: Create Pull Request
 
